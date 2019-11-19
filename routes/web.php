@@ -28,3 +28,7 @@ try {
 } catch (\Exception $exception) {
     // do nothing
 }
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
