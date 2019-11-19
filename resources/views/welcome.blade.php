@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - {{setting('site.slogan')}}
+                    Laravel vla - {{setting('site.slogan')}}
                 </div>
 
                 <div class="links">
